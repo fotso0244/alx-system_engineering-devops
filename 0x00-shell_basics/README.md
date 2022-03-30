@@ -7,3 +7,4 @@ Script "5-listfilesdigitonly" displays content with uid and gid
 Script "6-firstdirectory" creates a directory in /tmp/
 Script "8-firstdelete" deletes file "bessy" from directory "my_first_directory"
 Script "10-back" goes to previous working directory
+Script "9-firstdirdeletion" deletes directory "my_first_directory"
