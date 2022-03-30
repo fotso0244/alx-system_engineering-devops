@@ -11,3 +11,4 @@ Script "9-firstdirdeletion" deletes directory "my_first_directory"
 Script "11-lists" displays content of curr directory, parent of curr directory, and /boot directory in long format
 Script "12-file_type" displays type of iamafile
 Script "13-symbolic_link" creates symbolic link to /bin/ls
+Script "14-copy_html" copies with update all html files from current dir to parent of current dir
