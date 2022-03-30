@@ -12,3 +12,4 @@ Script "11-lists" displays content of curr directory, parent of curr directory, 
 Script "12-file_type" displays type of iamafile
 Script "13-symbolic_link" creates symbolic link to /bin/ls
 Script "14-copy_html" copies with update all html files from current dir to parent of current dir
+Script "7-movethatfile" moves filee betty from /tmp tp /tmp/my_first_directory
