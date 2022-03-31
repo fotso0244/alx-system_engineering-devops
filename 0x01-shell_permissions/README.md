@@ -10,3 +10,4 @@ Script "8-James_Bond" sets no permission for owner, group owner, and all permiss
 Script "9-John_Doe" sets permission like this -rwxr-x-wx for hello file
 Script "10-mirror_permissions" mirrors permissions of olleh file to hello file
 Script 11-directories_permissions" adds x permission to u, g, o for subdirectories
+Script "12-directory_permissions" creates directory my_dir with permissions 751
