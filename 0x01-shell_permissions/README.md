@@ -7,3 +7,4 @@ Script "5-execute" adds execute permission to owner of file hello
 Script "6-multiple_permissions" adds x permission to owner, group owner, r permission to other for hello file
 Script "7-everybody" adds x permission to everybody for hello file
 Script "8-James_Bond" sets no permission for owner, group owner, and all permission for others for hello file
+Script "9-John_Doe" sets permission like this -rwxr-x-wx for hello file
