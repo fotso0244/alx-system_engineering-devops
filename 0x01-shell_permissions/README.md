@@ -4,3 +4,4 @@ Script "2-groups" displays groups for current user
 Script "3-new_owner" changes owner of file "hello" to new owner "betty"
 Script "4-empty" creates new empty file hello
 Script "5-execute" adds execute permission to owner of file hello
+Script "6-multiple_permissions" adds x permission to owner, group owner, r permission to other for hello file
