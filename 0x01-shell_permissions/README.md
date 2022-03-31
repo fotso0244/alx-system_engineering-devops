@@ -14,3 +14,4 @@ Script "12-directory_permissions" creates directory my_dir with permissions 751
 Script "13-change_group" changes group owner of file hello
 Script "100-change_owner_and_group" changes at once owner and group owner of all files and directories of curr dir
 Scrip "102-if_only" changes owner of hello file with if condition
+Script "103-Star_Wars" plays starwars 4 episode in terminal
