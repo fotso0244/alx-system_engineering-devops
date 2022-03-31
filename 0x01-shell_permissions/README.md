@@ -9,3 +9,4 @@ Script "7-everybody" adds x permission to everybody for hello file
 Script "8-James_Bond" sets no permission for owner, group owner, and all permission for others for hello file
 Script "9-John_Doe" sets permission like this -rwxr-x-wx for hello file
 Script "10-mirror_permissions" mirrors permissions of olleh file to hello file
+Script 11-directories_permissions" adds x permission to u, g, o for subdirectories
