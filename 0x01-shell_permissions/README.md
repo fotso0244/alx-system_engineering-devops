@@ -12,3 +12,4 @@ Script "10-mirror_permissions" mirrors permissions of olleh file to hello file
 Script 11-directories_permissions" adds x permission to u, g, o for subdirectories
 Script "12-directory_permissions" creates directory my_dir with permissions 751
 Script "13-change_group" changes group owner of file hello
+Script "100-change_owner_and_group" changes at once owner and group owner of all files and directories of curr dir
