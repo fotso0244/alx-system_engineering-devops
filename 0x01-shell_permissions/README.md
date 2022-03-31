@@ -3,3 +3,4 @@ Script "1-who_am_i" displays effective name of current user
 Script "2-groups" displays groups for current user
 Script "3-new_owner" changes owner of file "hello" to new owner "betty"
 Script "4-empty" creates new empty file hello
+Script "5-execute" adds execute permission to owner of file hello
