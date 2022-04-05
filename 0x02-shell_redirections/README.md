@@ -12,3 +12,4 @@ Script 13-unique prints unique lines of file
 Script 14-findthatword prints line with "root" pattern from etc/passwd
 Script 15-countthatword counts number of lines with patter "bin" from etc/passwd
 Script 16-whatsnext prints 3 lines after pattern "root" in etc/password
+Script 17-hidethisword print all lines without pattern bin in etc/passwd
