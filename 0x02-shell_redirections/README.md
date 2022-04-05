@@ -6,3 +6,6 @@ Script 4-lastlines prints last 10 lines of etc/passwd
 Script 5-firstlines prints first 10 lines of /etc/passwd
 Script 6-Third_line prints third line of iacta file
 Script 8-cwd_state redirects result of ls -la
+Script 11-directories pints number of directories and subdirectories 
+Script 12-newest_files displays 10 newest files
+Script 13-unique prints unique lines of file
