@@ -10,3 +10,4 @@ Script 11-directories pints number of directories and subdirectories
 Script 12-newest_files displays 10 newest files
 Script 13-unique prints unique lines of file
 Script 14-findthatword prints line with "root" pattern from etc/passwd
+Script 15-countthatword counts number of lines with patter "bin" from etc/passwd
