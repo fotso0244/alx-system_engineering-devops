@@ -16,3 +16,4 @@ Script 17-hidethisword print all lines without pattern bin in etc/passwd
 Script 18-letteronly prints all lines beginning with a letter in etc/ssh/sshd_config
 Script 19-AZ replace A to Z and c to e
 Script 20-hiago delates c and C characters
+Script 21-reverse reverses string
