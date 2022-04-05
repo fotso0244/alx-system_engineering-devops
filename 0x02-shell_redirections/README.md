@@ -14,3 +14,4 @@ Script 15-countthatword counts number of lines with patter "bin" from etc/passwd
 Script 16-whatsnext prints 3 lines after pattern "root" in etc/password
 Script 17-hidethisword print all lines without pattern bin in etc/passwd
 Script 18-letteronly prints all lines beginning with a letter in etc/ssh/sshd_config
+Script 19-AZ replace A to Z and c to e
