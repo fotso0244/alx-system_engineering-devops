@@ -17,3 +17,4 @@ Script 18-letteronly prints all lines beginning with a letter in etc/ssh/sshd_co
 Script 19-AZ replace A to Z and c to e
 Script 20-hiago delates c and C characters
 Script 21-reverse reverses string
+Script 22-users_and_home displays sorted list of users
