@@ -19,3 +19,4 @@ Script 20-hiago delates c and C characters
 Script 21-reverse reverses string
 Script 22-users_and_home displays sorted list of users
 Script 10-no_more_js delete js file
+Script 7-file creates special file
