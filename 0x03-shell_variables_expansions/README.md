@@ -1,2 +1,1 @@
-Script 5-local_variables lists local variables
-Script 6-create_local_variable creates BEST variable 
+Script 7-create_global_variable creates global variable
