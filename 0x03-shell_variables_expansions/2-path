@@ -1,0 +1,2 @@
+#!/bin/bash
+export PATH=$PATH:$(history | tail -2 | head -1 | tr -d ' 0-9' | which)
