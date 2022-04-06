@@ -21,3 +21,4 @@ Script 22-users_and_home displays sorted list of users
 Script 10-no_more_js delete js file
 Script 7-file creates special file
 Script 100-empty_casks displays empty files and directoties
+Scripts 101-gifts prints all .git files
