@@ -6,3 +6,4 @@ Script 11-binary_to_decimal converts binary to decimal
 Script 13-print_float prints float number with 2 decimal places
 Script 12-combinations prints all combination between 2 letters exept 00
 Script 100-decimal_to_hexadecimal converts decimal to hex
+Script 101-rot13 doing rot13 encryption
