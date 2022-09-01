@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -al) \n$(ls -al ..) \n$(ls -al /boot)"
+echo -e ".:\n$(ls -al) \n\n..:\n$(ls -al ..) \n\n/boot:\n$(ls -al /boot)"
