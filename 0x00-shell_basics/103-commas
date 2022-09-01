@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -e "$(ls -Fa --format=comma | tr -d '*')"
