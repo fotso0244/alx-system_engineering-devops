@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(mkdir welcome)$(mkdir welcome/to)$(mkdir welcome/to/school)"
+echo "$(mkdir welcome)$(mkdir welcome/to)$(mkdir welcome/to/school)"
